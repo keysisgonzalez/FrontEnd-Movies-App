@@ -4,10 +4,10 @@ Cinema Scape is a simple web application for managing and displaying a collectio
 
 ## Features
 
-- **Add Movies**: Fill out a form with the movie's name, genre, summary, and image URL to add it to the collection.
-- **Edit Movies**: Update existing movie details directly from the displayed movie cards.
-- **View Movies**: Render all added movies in a card layout with details and images.
-- **Delete Movies**: Remove unwanted movies from the collection with a single click.
+- ✨ **Add Movies**: Fill out a form with the movie's name, genre, summary, and image URL to add it to the collection.
+- 🖊️ **Edit Movies**: Update existing movie details directly from the displayed movie cards.
+- 👀 **View Movies**: Render all added movies in a card layout with details and images.
+- 🗑️ **Delete Movies**: Remove unwanted movies from the collection with a single click.
 
 ## Technologies Used
 
