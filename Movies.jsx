@@ -9,7 +9,7 @@ function Movies() {
     search: "",
   });
 
-  //-----Search bar handling-----
+  //------Search bar handling------
   const onSearchFieldChanged = (e) => {
     e.preventDefault();
 
