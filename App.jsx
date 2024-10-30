@@ -22,7 +22,7 @@ function App() {
   return (
     <React.Fragment>
       <SiteNav user={currentUser}></SiteNav>
-      {/*Allows to change the url*/}
+      {/*Allows tochange the url*/}
 
       <div className="container ">
         <Routes>
